@@ -1,0 +1,111 @@
+
+---Downloaded files---
+The import files for: Shopping Cart Demo were successfully downloaded!
+Initial max execution time = 20
+Files info:
+Site URL = http://vunph.id.vn/wp
+Data file = /home/hvteksho/public_html//wp/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart.wordpress.xml
+Widget file = /home/hvteksho/public_html//wp/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-widgets.wie
+Customizer file = /home/hvteksho/public_html//wp/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Lưu trữ - No Title - Imported
+Chuyên mục - No Title - Imported
+Meta - No Title - Imported
+
+Top Header Info : 
+
+Văn bản - No Title - Imported
+
+Advertisement Banner One : 
+
+Ảnh - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Sản phẩm - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Sản phẩm theo đánh giá - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+HTML Tùy chỉnh - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Các danh mục sản phẩm - Product categories - Imported
+Bộ lọc sản phẩm đang kích hoạt - Active filters - Imported
+Lọc sản phẩm bởi giá - Filter by price - Imported
+Sản phẩm - Products - Imported
+Mây thẻ sản phẩm - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Sản phẩm - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Sản phẩm - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Sản phẩm - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Sản phẩm - Products - Imported
+
+Footer Column 1 : 
+
+Văn bản - No Title - Imported
+
+Footer Column 2 : 
+
+HTML Tùy chỉnh - We Accept - Imported
+
+Footer Column 3 : 
+
+HTML Tùy chỉnh - Shop Location - Imported
+
+Footer Column 4 : 
+
+Ảnh - Download App - Imported
+Ảnh - No Title - Imported
+
+Max Mega Menu Widgets : 
+
+Sản phẩm - Products - Imported
+Văn bản - No Title - Imported
+Sản phẩm - Products - Imported
+Văn bản - No Title - Imported
+Max Mega Menu - No Title - Imported
+Thanh điều hướng - No Title - Imported
+Ảnh - Featured Product - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
