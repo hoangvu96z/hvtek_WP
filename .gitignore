@@ -1,0 +1,98 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+/wp-*.php
+/xmlrpc.php
+/license.txt
+/readme.html
+/index.php
+
+# WordPress files in /wp directory
+/wp/wp-admin/
+/wp/wp-includes/
+/wp/wp-*.php
+/wp/xmlrpc.php
+/wp/license.txt
+/wp/readme.html
+/wp/index.php
+
+# WordPress content that should be ignored
+/wp-content/uploads/
+/wp-content/blogs.dir/
+/wp-content/upgrade/
+/wp-content/backup-db/
+/wp-content/cache/
+/wp-content/backups/
+/wp-content/advanced-cache.php
+/wp-content/object-cache.php
+/wp-content/wp-cache-config.php
+/wp-content/debug.log
+
+# WordPress content in /wp directory
+/wp/wp-content/uploads/
+/wp/wp-content/blogs.dir/
+/wp/wp-content/upgrade/
+/wp/wp-content/backup-db/
+/wp/wp-content/cache/
+/wp/wp-content/backups/
+/wp/wp-content/advanced-cache.php
+/wp/wp-content/object-cache.php
+/wp/wp-content/wp-cache-config.php
+/wp/wp-content/debug.log
+
+# WordPress configuration files
+/wp-config.php
+/wp-config-sample.php
+.htaccess
+
+# WordPress configuration files in /wp directory
+/wp/wp-config.php
+/wp/wp-config-sample.php
+
+# Ignore plugins bundled with WordPress
+/wp-content/plugins/hello.php
+/wp-content/plugins/akismet/
+
+# Ignore plugins in /wp directory
+/wp/wp-content/plugins/hello.php
+/wp/wp-content/plugins/akismet/
+
+# Node modules and npm
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+
+# Compiled CSS/JS files
+/wp-content/themes/*/dist/
+/wp-content/themes/*/build/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+*.esproj
+nbproject/
+*.swp
+*.swo

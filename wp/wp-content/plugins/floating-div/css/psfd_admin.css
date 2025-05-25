@@ -1,0 +1,149 @@
+.psfd_pro_features {
+	display:none;
+}
+
+.psfd_pro_features label{
+	color:#acacac;
+}
+
+.psfd_pro_features input{
+	color:#acacac;
+}
+
+.psfd_pro_features select{
+	color:#acacac;
+}
+
+.psfd_pro_features td{
+	color:#acacac;
+}
+
+.psfd_pro_features h2{
+	color:#acacac;
+}
+
+.psfd_radio_pleft {
+	margin-left:15px !important;
+}
+
+.psfd_radio_pright {
+	margin-right:5px !important;
+}
+
+.psfd_input_align_right {
+	text-align:right;
+}
+
+.psfd_input_small_width {
+	width:60px;
+}
+
+
+#psfd_collapsible_settings {
+	display:none;
+}
+
+#psfd_content {
+	height:250px;
+}
+
+.psfd_div_margins {
+	display:none;
+}
+
+.psfd_select_125p{
+	width:125px;
+}
+
+.psfd_select_100{
+	width:100%;
+	margin-top:5px;
+}
+
+.psfd_table_100{
+	width:100%;
+}
+
+.psfd_table_100_label{
+	vertical-align:middle;
+	height:60px;
+	width:240px;
+}
+
+.psfd_table_100_input{
+	vertical-align:middle;
+	height:60px;
+	width:200px;
+}
+
+.psfd_table_100_3td{
+	width:100%;
+}
+
+.psfd_table_100_3td td{
+	height:60px;
+}
+
+.psfd_table_settings td{
+	height:60px;
+}
+
+.psfd_label_margins {
+	display: block;
+	line-height:30px;
+}
+
+.psfd_back_image {
+	margin-top:-12px;
+	display:inline-block;
+}
+
+.psfd_td_label {
+	width:250px !important;
+}
+
+.psfd_td_thin {
+	width:250px !important;
+}
+
+.psfd_label_colorpicker {
+	display: inline-block;
+	margin-top:-12px;
+}
+
+#psfd_content_metabox h2 {
+	font-size: 17px;
+    color: #0073aa;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 10px;
+    padding-top: 4px;
+	margin-bottom:15px;
+	margin-top:5px;
+}
+
+.psfd_admin_title{
+	border-bottom: 2px solid #e8e8e8;
+	margin-top:15px !important;
+}
+
+#psfd_settings_metabox h2 {
+	font-size: 17px;
+    color: #0073aa;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 10px;
+    padding-top: 4px;
+	margin-bottom:15px;
+	margin-top:5px;
+}
+
+.psfd_desc {
+	color:#BDBDBD;
+	font-style: italic;
+	font-size:9pt;
+}

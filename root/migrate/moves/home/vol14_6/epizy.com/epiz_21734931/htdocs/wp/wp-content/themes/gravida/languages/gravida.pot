@@ -1,0 +1,484 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Gravida\n"
+"POT-Creation-Date: 2018-12-24 17:51+0530\n"
+"PO-Revision-Date: 2017-05-19 15:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Dont worry ... it happens to the "
+"best of us."
+msgstr ""
+
+#: archive.php:31 front-page.php:153
+msgid "Back"
+msgstr ""
+
+#: archive.php:32 front-page.php:154
+msgid "Next"
+msgstr ""
+
+#: archive.php:33
+msgid "Posts navigation"
+msgstr ""
+
+#: category.php:19
+msgid "Category: "
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:17 content-single.php:28 content.php:32
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:22 content-single.php:40 image.php:33
+#: inc/template-tags.php:68
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:33 content.php:16
+msgid ", "
+msgstr ""
+
+#: content-single.php:34
+msgid "&nbsp;|&nbsp; Tags:"
+msgstr ""
+
+#: content.php:25
+msgid "Read More &raquo;"
+msgstr ""
+
+#: content.php:29
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: footer.php:42
+msgid "Recent Tweets"
+msgstr ""
+
+#: footer.php:43
+msgid "Use twitter widget for twitter feed."
+msgstr ""
+
+#: footer.php:48
+msgid "Recent Posts"
+msgstr ""
+
+#: footer.php:68
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:73
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:78
+msgid "Google +"
+msgstr ""
+
+#: footer.php:83
+msgid "Linkedin"
+msgstr ""
+
+#: front-page.php:80
+msgid "Read More >"
+msgstr ""
+
+#: front-page.php:99
+msgid "Latest Blog"
+msgstr ""
+
+#: front-page.php:118
+msgid "Read More"
+msgstr ""
+
+#: functions.php:77
+msgctxt "Roboto font:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:83
+msgctxt "Oswald:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:89
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:30
+msgid "Go To..."
+msgstr ""
+
+#: inc/about-themes.php:5
+msgid "About Theme"
+msgstr ""
+
+#: inc/about-themes.php:23
+msgid "About Theme Info"
+msgstr ""
+
+#: inc/about-themes.php:25
+msgid ""
+"SKT Gravida as the name suggests is a responsive corporate multipurpose "
+"WordPress theme. It is a responsive theme and is suitable for any kind of "
+"industry. So not just Corporate but other industries like business, "
+"commercial, industrial, architects, professionals also can use it. Theme "
+"options and templates make this theme very easy to use. Compatible with "
+"popular plugins like WooCommerce and Contact form 7. Slider and content "
+"portions easy to set up and use."
+msgstr ""
+
+#: inc/about-themes.php:32
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:33
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/about-themes.php:34
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "More color options in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Footer right text"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid ""
+"Featured Image Size Should be ( 1400x446 ) More slider settings available in "
+"PRO Version"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Slide Image 1 (1400x446)"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Slider title 1"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Slider description  1"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Slide link 1"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Slide image 2"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Slide title 2"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Slide description 2"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Slide link 2"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Slide Image 3"
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Slide title 3"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Slide Description 3"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Slide link 3"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Slide Image 4"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Slide title 4"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Slide description 4"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Slide link 4"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Slide image 5"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Slide title 5"
+msgstr ""
+
+#: inc/customizer.php:349
+msgid "Slide description 5"
+msgstr ""
+
+#: inc/customizer.php:362
+msgid "Slide link 5"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "Homepage Boxes"
+msgstr ""
+
+#. translators: %s: page boxes description
+#: inc/customizer.php:370
+#, php-format
+msgid ""
+"Featured Image Dimensions : ( 58 X 58 ) Select Featured Image for these "
+"pages  How to set featured image %s"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "Click Here ?"
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Choose a page for box one:"
+msgstr ""
+
+#: inc/customizer.php:402
+msgid "Choose a page for box two:"
+msgstr ""
+
+#: inc/customizer.php:414
+msgid "Choose a page for box three:"
+msgstr ""
+
+#: inc/customizer.php:426
+msgid "Choose a page for box four:"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "More social icon available in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:443
+msgid "Add social heading here"
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:465
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:487
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer.php:494
+msgid "Add you contact details here"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Add contact title here"
+msgstr ""
+
+#: inc/customizer.php:519
+msgid "Add contact description here"
+msgstr ""
+
+#: inc/customizer.php:536
+msgid "Add contact address here"
+msgstr ""
+
+#: inc/customizer.php:549
+msgid "Add contact number here."
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "Add you email here"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:188
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: search term
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Gravida"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/gravida-corporate-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Gravida as the name suggests is a responsive corporate multipurpose "
+"WordPress theme. It is a responsive theme and is suitable for any kind of "
+"industry. So not just Corporate but other industries like business, "
+"commercial, industrial, architects, professionals also can use it. Theme "
+"options and templates make this theme very easy to use. Compatible with "
+"popular plugins like WooCommerce and Contact form 7. Slider and content "
+"portions easy to set up and use. Demo Link: http://sktthemesdemo.net/gravida/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr ""
